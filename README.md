@@ -16,6 +16,9 @@ dengam image gambaruas.jpg
 
 # Langkah Pengerjaan
 #### 1. Ambil foto sesuai dengan ketentuan 
+![logo](https://github.com/adindamusikap/PA-24_202131088_ADINDA-MUSIKA-P_B/assets/112677505/761b1e79-0b7d-4c10-b4ed-6ee44e665b77)
+- #### Rincian Gambar
+![logo](https://github.com/adindamusikap/PA-24_202131088_ADINDA-MUSIKA-P_B/assets/112677505/47291fe6-967d-4f11-b7c0-4218db76ff41)
 #### 2. Masukan Foto ke file jupyter 
 #### 3. Buat File baru untuk pengerjaan projek UAS 
 #### 4. Import Library yang digunakan :
@@ -67,4 +70,9 @@ ax[1].imshow(cv2.cvtColor(gambar_asli, cv2.COLOR_BGR2RGB))
 ax[1].set_title('Gambar Contour')
 ```
 >> Subplot kedua menampilkan gambar yang sudah di beri Contour
+### Hasil Gambar yang sudah di Contour
+<img width="661" alt="image" src="https://github.com/adindamusikap/PA-24_202131088_ADINDA-MUSIKA-P_B/assets/112677505/28a3d2bf-d481-4da3-ac31-b839c4e70ad4">
+
+
+
 
